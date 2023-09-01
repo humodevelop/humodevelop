@@ -1,9 +1,8 @@
 ## Hola 👋
-### Soy Luciano, de Argentina, me desempeño en el desarrollo web y desarrollo de videojuegos en Unity.
+### Soy Luciano, de Argentina, desarrollo videojuegos en Unity y tengo conocimientos en desarrollo web.
 ***
 ## Skills
-💻 Desarrollo web: HTML, CSS, Java Script, PHP, MySQL.
-
 🎮 Desarrollo de videojuegos: C#, Unity.
+💻 Desarrollo web: HTML, CSS, Java Script, PHP, MySQL.
 ***
 ### Podrás ver algunos de mis proyectos en mi [portafolio](https://humodevelop.github.io/).
